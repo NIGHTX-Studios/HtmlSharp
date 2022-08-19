@@ -1,5 +1,10 @@
 # HtmlSharp
-A API to connect C# and JavaScript
+An API to connect C# and JavaScript.
+
+# Information
+> Current Version: V1
+> Release Date: 19th of august 2022
+> Developers: [David Gerson](https://github.com/pogrammerX)
 
 # How to import
 ## Use the example Project
