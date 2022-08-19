@@ -10,7 +10,7 @@ An API to connect C# and JavaScript.
 
 # Donations
 ## Donations are greatly appreciated and go right back into Development!
-<button style="border-radius: 5px; border-style: none; background: cyan; color: white; font-size: 50px; width: 250px; height: 80px; cursor: pointer;" onclick="window.open('https://www.paypal.com/donate/?hosted_button_id=J73E95G4JUWPG')"> Donate </button>
+<a href="https://www.paypal.com/donate/?hosted_button_id=J73E95G4JUWPG">Donate</a>
 
 # How to import
 ## Use the example Project
