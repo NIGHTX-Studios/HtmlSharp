@@ -76,7 +76,7 @@ We got as button with some designing, but mainly we got a "onclick" event with t
 
 Now remember the Callback name?
 
-Thats right it was "alrt" so we Perform the callback with the name "alert", with the argument "Hello, HtmlSharp World!"!
+Thats right it was "alrt" so we Perform the callback with the name "alrt", with the argument "Hello, HtmlSharp World!"!
 
 What will this do?
 
